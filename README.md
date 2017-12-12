@@ -44,6 +44,8 @@ https://vast-headland-21279.herokuapp.com/
 
 ![screenshot from 2017-12-11 19-27-14](https://user-images.githubusercontent.com/12612087/33866123-b5ade9c8-dea9-11e7-94d7-41a77eec8504.png)
 
+The signals are being calculated using peak/valley values and slope of the bitcoin stock price at that interval.
+
 ![screenshot from 2017-12-11 19-27-22](https://user-images.githubusercontent.com/12612087/33866128-b7de3ef0-dea9-11e7-97e2-9015e3bb696f.png)
 
 ### The outcome of our project:
