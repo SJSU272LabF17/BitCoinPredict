@@ -18,15 +18,15 @@ Vineet Zunjarwad
 ### Setup for running prediction script
 1. Create a new virtual environment
 
-  `$ virtualenv -p python3 venv`
+  ` virtualenv -p python3 venv`
 
-  `$ source venv/bin/activate`
+  ` source venv/bin/activate`
 
-  `$ pip install -r requirements.txt`
+  ` pip install -r requirements.txt`
 
 2. To calculate algorithm accuracy you will need feature.csv that you cann be found [here](https://drive.google.com/open?id=1u3vL5zIk3wHX844ZlHreWMewkCCBRToq)
 
-  `$ python predict.py`
+  ` python predict.py`
 
 ### Algorithm accuracy
 We have acheived Mean Square Error close to 33 over roughlt 650K records with 70-30 split using Logistic Regression model. 
