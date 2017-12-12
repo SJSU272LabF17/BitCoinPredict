@@ -9,7 +9,13 @@ Nikita Sengupta
 
 Vineet Zunjarwad
 
-### Setup 
+### Setup for collecting older tweets
+
+1. `$ pip install -r requirements.txt`
+
+2. `$ python Exporter.py --querysearch "europe refugees" --maxtweets 10000`
+
+### Setup for running prediction script
 1. Create a new virtual environment
 
 `$ virtualenv -p python3 venv`
