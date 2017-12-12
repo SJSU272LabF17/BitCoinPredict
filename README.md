@@ -1,4 +1,4 @@
-### Butcoin Price Prediction Using Twitter Sentiment Analysis
+### Bitcoin Price Prediction Using Twitter Sentiment Analysis
 
 ### Team Members
 Abhineet Gupta
