@@ -31,7 +31,7 @@ To bypass the limitation of the twitter API, that is to get tweets more than 2 w
     `$ python predict.py`
 
 ### Algorithm accuracy
-We have acheived Mean Square Error close to 33 over roughlt 650K records with 70-30 split using Logistic Regression model. 
+We have acheived Mean Square Error close to 33 over the span of roughly 650K records with 70-30 split using Logistic Regression model. 
 
 
 ### Final Output:
