@@ -10,6 +10,8 @@ Nikita Sengupta
 Vineet Zunjarwad
 
 ### Setup for collecting older tweets
+To bypass the limitation of the twitter API, that is to get tweets more than 2 weeks earlier, we have scrapped the original twitter web page using a JSON provider. By which we can use infinite scrolling and get the previous data directly.
+
 
 1. `$ pip install -r requirements.txt`
 
